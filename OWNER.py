@@ -1,10 +1,10 @@
 # متطلبات التنصيب #
-OWNER = ["G_7_Rr"]
+OWNER = ["S_1_02"]
 OWNER_NAME = "teto"
-BOT_TOKEN = "6432841340:AAFmzvjpBRc025leCsXzqafV7N1TLT_VLCc"
-DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority"
-CHANNEL = "https://t.me/CH_NR"
-GROUP = "https://t.me/t7_AU"
+BOT_TOKEN = "7093409421:AAE7t0x7MXozli_o2BpMgDDZZm4V8665To4"
+DATABASE = "mongodb+srv://hymbnlnlhyrwkw:Y0AcSx0nVf1jDv4L@cluster0.pjk3hry.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+CHANNEL = "https://t.me/A1DIIU"
+GROUP = "https://t.me/ll0llld"
 VIDEO = "https://graph.org/file/061951daec85b0f94b83c.jpg"
-LOGS = "zombie2"
+LOGS = "salam"
 
